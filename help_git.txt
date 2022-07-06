@@ -1,16 +1,1 @@
-ok so
-sodfjalkdjfaks
-finally i can type freely
-
-so we 
-are in 
-a very nice
-folder
-
-
-and 
-
-WE MADE A FILE!!!!!
-git add <file> to add file to the tracking thingy
-
-yay idk sdkfjdlkf 
+i wonder if this updates in the ide too
