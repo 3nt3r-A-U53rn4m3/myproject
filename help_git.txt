@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  
+=======
+i wonder if this updates in the ide too
+>>>>>>> 43b94b56c5a399142bbbb24771e92732c7c2c9c2
